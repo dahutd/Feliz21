@@ -17,7 +17,7 @@ t.write("Atte.", align="center", font=("Arial", 13, "bold"))
 t.penup()
 t.goto(0,500)
 t.color("red")
-t.write("Dahut H.", align="center", font=("Arial", 13, "bold"))
+t.write("Dahut.", align="center", font=("Arial", 13, "bold"))
 
 def go(x,y):
     t.penup()
